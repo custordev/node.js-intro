@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.hero-section {
+  background: blueviolet;
+  color: aliceblue;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.heading {
+  font-size: 3rem;
+  font-weight: 600;
+}
+
+.heading2 {
+  font-size: 3rem;
+  font-weight: 600;
+}
